@@ -30,6 +30,7 @@ Output - 1278
 
 3) Weight Balance (File -> WeightBalance.cpp)
 Source -> CodeChef
+
 No play and eating all day makes your belly fat. This happened to Chef during the lockdown. His weight before the lockdown was w1​ kg (measured on the most accurate hospital machine) and after M months of lockdown, when he measured his weight at home (on a regular scale, which can be inaccurate), he got the result that his weight was w2​ kg (w2​>w1​).
 
 Scientific research in all growing kids shows that their weights increase by a value between x1​ and x2​ kg (inclusive) per month, but not necessarily the same value each month. Chef assumes that he is a growing kid. Tell him whether his home scale could be giving correct results.
@@ -64,6 +65,7 @@ Sample output:
 
 4) Search Insert Position (File -> SearchInsertPosition.cpp) 
 Source -> LeetCode
+
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 You must write an algorithm with O(log n) runtime complexity.
@@ -88,7 +90,9 @@ nums contains distinct values sorted in ascending order.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-5) 
+5) Way too long words (File -> WayTooLongWords.java)
+Source -> CodeForces
+
 Sometimes some words like "localization" or "internationalization" are so long that writing them many times in one text is quite tiresome.
 
 Let's consider a word too long, if its length is strictly more than 10 characters. All too long words should be replaced with a special abbreviation.
