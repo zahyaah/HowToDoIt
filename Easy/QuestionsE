@@ -152,7 +152,7 @@ Output: 8
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-7) Hulk (File -> Hulk.cpp
+7) Hulk (File -> Hulk.cpp)
 Source -> CodeForces 
 
 Dr. Bruce Banner hates his enemies (like others don't). As we all know, he can barely talk when he turns into the incredible Hulk. That's why he asked you to help him to express his feelings.
@@ -182,6 +182,55 @@ Input:
 3
 Output:
 I hate that I love that I hate it
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+8) Valid Perfect Square (File -> ValidPerfectSquare.cpp) 
+Source -> LeetCode
+
+Given a positive integer num, write a function which returns True if num is a perfect square else False.
+
+Follow up: Do not use any built-in library function such as sqrt.
+
+Example 1:
+Input: num = 16
+Output: true
+
+Example 2:
+Input: num = 14
+Output: false
+
+Constraints:
+1 <= num <= 2^31 - 1
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+9) Missing Number (File -> MissingNumber.java) 
+Source -> LeetCode 
+
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+Example 1:
+Input: nums = [3,0,1]
+Output: 2
+Explanation: n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
+
+Example 2:
+Input: nums = [0,1]
+Output: 2
+Explanation: n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
+
+Example 3:
+Input: nums = [9,6,4,2,3,5,7,0,1]
+Output: 8
+Explanation: n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
+
+Contraints:
+n == nums.length
+1 <= n <= 104
+0 <= nums[i] <= n
+All the numbers of nums are unique.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
