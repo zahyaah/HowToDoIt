@@ -1,2 +1,2 @@
 # HowToDoIt
-Where You Will Get The Source Code
+Where You Will Get The Solutions
